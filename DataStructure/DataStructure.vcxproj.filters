@@ -21,9 +21,15 @@
     <ClCompile Include="FixedCapacityStackOfStrings.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="FixedCapacityStack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FixedCapacityStackOfStrings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FixedCapacityStack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

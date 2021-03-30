@@ -155,9 +155,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="DataStructure.cpp" />
+    <ClCompile Include="FixedCapacityStack.cpp" />
     <ClCompile Include="FixedCapacityStackOfStrings.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="FixedCapacityStack.h" />
     <ClInclude Include="FixedCapacityStackOfStrings.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
